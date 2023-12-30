@@ -2,7 +2,7 @@
 
 rm-rf BLACK
 
-git clone https//github.com/BlackFF444/BLACK.git
+git clone https://github.com/BlackFF444/BLACK
 
 cd BLACK
 
