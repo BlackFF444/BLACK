@@ -2,8 +2,8 @@
 
 rm -rf BLACK
 
-git clone https://github.com/BlackFF444/BLACK
+git clone https://github.com/BlackFF444/BLACK.git
 
 cd BLACK
 
-python FIRE.py
+python FILE.py
